@@ -370,7 +370,6 @@ public:
                     cout << spaceforchoice << "ENTER 4  :  DELETE AN EMPLOYEE RECORD" << endl;
                     cout << spaceforchoice << "ENTER 5  :  ADD NEW EMPLOYEE DETAILS" << endl;
                     cout << spaceforchoice << "ENTER 6  :  SHOW EMPLOYEE MESSAGES" << endl;
-                    // cout << spaceforchoice << "ENTER 7  :  SET A NEW PASSWORD" << endl;
                     cout << spaceforchoice << "ENTER 0  :  EXIT" << endl;
                     cout << spaceforchoice << "ENTER YOUR CHOICE  :  ";
                     cin >> choice;
