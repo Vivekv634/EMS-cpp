@@ -94,7 +94,7 @@ private:
     int choice;
 
 public:
-    void showAllDetails() // all data shown function
+    void showAllDetails()
     {
         string dash_line(175, '-');
         cout << dash_line << endl;
@@ -110,7 +110,7 @@ public:
         fclose(file);
     }
 
-    void showDetailByID() // data shown by ID function
+    void showDetailByID()
     {
         string dash_line(65, '-'), space(7, ' ');
         FILE *file;
@@ -134,7 +134,7 @@ public:
         fclose(file);
     }
 
-    void addEmployeeDetails() // data adding function
+    void addEmployeeDetails()
     {
         bool found = false;
         string dash_line(65, '-'), space(7, ' ');
@@ -208,7 +208,7 @@ public:
         }
     }
 
-    void deleteEmployeeDetail() // data deletion function
+    void deleteEmployeeDetail()
     {
         string dash_line(65, '-'), space(7, ' ');
         char checkID[5], ch;
@@ -339,7 +339,8 @@ public:
         int n = 1;
         ifstream file("message.txt");
         cout << dash_line << endl;
-        cout << space << "MESSAGES FROM ALL EMPLOYEES\n" << endl;
+        cout << space << "MESSAGES FROM ALL EMPLOYEES\n"
+             << endl;
         while (getline(file, message))
         {
             cout << space << n << ". " << message << endl;
