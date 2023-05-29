@@ -16,4 +16,5 @@ This is a console based application made with C++ language and OOPS concept and 
 
 ## Follow me on
 Github [@Vivekv634](https://github.com/Vivekv634) &nbsp; &middot;&nbsp;
-LinkedIn [@vivek-vaish-bb5803257](https://www.linkedin.com/in/vivek-vaish-bb5803257/)
+LinkedIn [@vivek-vaish-bb5803257](https://www.linkedin.com/in/vivek-vaish-bb5803257/) &nbsp; &middot;&nbsp;
+Instagram [@v.codr](https://www.instagram.com/v.codr/)
