@@ -5,6 +5,7 @@ It is a data management system based on C++ language and text files to store dat
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekv634/EMS-cpp?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/vivekv634/EMS-cpp?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivekv634/EMS-cpp?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/vivekv634/ems-cpp?style=for-the-badge)
 
 ## Key Features
 * Easy to use
