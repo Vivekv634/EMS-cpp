@@ -14,10 +14,10 @@ It is a data management system based on C++ language and text files to store dat
 * 💭 Employee can communicate to Admin
 
 ##  About the project
-This is a console based application made with C++ language and OOPS concept and can store & handle a great amount of employees' data. It has two major modules **Admin** and **Employee**. In **Admin** module, you can add, delete, search, update the data of the employees and also you can see the messages send by the employees. In **Employee** module, you can see your data and can send message to **Admin**.
+This is a console-based application made with C++ language and OOPS concept and can store & handle an incredible amount of employees' data. It has two major modules **Admin** and **Employee**. In **Admin** module, you can add, delete, search, and update the employees' data and also see the messages sent by the employees. In the **Employee** module, you can see your data and send messages to **Admin**.
 
 ## ⚙️ How to use
-To use this management system in your computer, you will need [Git](https://git-scm.com/), [C++ Compiler](https://sourceforge.net/projects/orwelldevcpp/) and [VS Code](https://code.visualstudio.com/download)
+To use this management system on your computer, you will need [Git](https://git-scm.com/), [C++ Compiler](https://sourceforge.net/projects/orwelldevcpp/) and [VS Code](https://code.visualstudio.com/download)
 
 ```bash
 git clone https://github.com/Vivekv634/EMS-cpp.git
